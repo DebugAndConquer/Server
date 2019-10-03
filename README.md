@@ -1,0 +1,2 @@
+# Server
+ A server to handle accounts is built.  Any number of brokers are allowed to connect to the server and perform a number of actions described in a README.md. Each account consists of an account number, and a pair of floating point values. The first floating point value is the amount of Arian, and the second is the amount of Pres currently in the account.The server is to listen on port number 4242 on localhost.  The brokers will connect on that port.
